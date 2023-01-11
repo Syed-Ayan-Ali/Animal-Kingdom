@@ -3,15 +3,14 @@ class Animal:
         self.has_legs = False
         self.num_eyes = 0
 
-    def breath():
+    def breath(self):
         print("Breathing")
 
-    def walk():
+    def walk(self):
         print("Walking")
 
-    def drink():
+    def drink(self):
         print("Drinking")
 
-    def sleep():
+    def sleep(self):
         print("Sleeping")
-    
