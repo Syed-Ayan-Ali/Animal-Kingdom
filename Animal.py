@@ -1,5 +1,6 @@
 class Animal:
     def __init__(self):
+        self.has_eggs = False
         self.has_legs = False
         self.num_eyes = 0
 
